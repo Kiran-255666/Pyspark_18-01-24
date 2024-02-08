@@ -12,7 +12,7 @@ In this exercise, you will be able to:
 
 ## Lab details
 
-- [Module 15 - Create a stream processing solution with Event Hubs and Azure Databricks](#module-15---create-a-stream-processing-solution-with-event-hubs-and-azure-databricks)
+- [ Create a stream processing solution with Event Hubs and Azure Databricks](#module-15---create-a-stream-processing-solution-with-event-hubs-and-azure-databricks)
   - [Lab details](#lab-details)
   - [Concepts](#concepts)
   - [Event Hubs and Spark Structured Streaming](#event-hubs-and-spark-structured-streaming)
@@ -48,10 +48,6 @@ A streaming system consists of:
 
 - Input sources such as Kafka, Azure Event Hubs, IoT Hub, files on a distributed system, or TCP-IP sockets
 - Stream processing using Structured Streaming, forEach sinks, memory sinks, etc.
-
-## Lab setup and pre-requisites
-
-- You have successfully completed [Module 0](../00/README.md) to create your lab environment.
 
 ### Exercise 0: Provision lab resources
 
