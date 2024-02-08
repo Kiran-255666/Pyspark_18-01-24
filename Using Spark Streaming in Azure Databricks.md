@@ -129,6 +129,10 @@ FROM counts
 ORDER BY time, action</pre>
 <!-- /wp:syntaxhighlighter/code -->
 
+<!-- wp:paragraph -->
+<p>Please delete your databricks resource to save your credits</p>
+<!-- /wp:paragraph -->
+
 
 
 
