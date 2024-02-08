@@ -32,7 +32,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>If you will be using Spark context, otherwise just import pyspark.sql namespace.</p>
+<p>Import the necessary libraries</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:syntaxhighlighter/code -->
