@@ -112,7 +112,7 @@ streamingCountsDF = (
 <!-- /wp:syntaxhighlighter/code -->
 
 <!-- wp:paragraph -->
-<p>And once the cluster is running, you can do variety of analysis.  The Key component is the ".start" method - embedded in the main function, that you can run the spark due to incoming poklikuc.</p>
+<p>And once the cluster is running, you can do variety of analysis.  The Key component is the ".start" method - embedded in the main function</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
