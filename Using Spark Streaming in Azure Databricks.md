@@ -28,7 +28,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Start your Workspace in Azure Databricks. Create new notebook, name it: <em>Day23_streaming</em> and use the default language: <em>Python</em>. If you decide to use EventHubs from reading data from HDFS or other places, Scala language might be slightly better.</p>
+<p>Start your Workspace in Azure Databricks. Create new notebook, name it: <em>streaming</em> and use the default language: <em>Python</em>. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
